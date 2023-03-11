@@ -1,4 +1,0 @@
-Intrebare1? r1 r2 r3 r4!
-Intrebare2? 283@
-Intrebare3? r1! r2 r3 r4
-Intrebare4? 8871@
