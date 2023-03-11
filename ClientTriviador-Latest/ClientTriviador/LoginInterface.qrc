@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/newPrefix">
+        <file>images/neutral_color.png</file>
+        <file>images/Profile.png</file>
+        <file>images/harta4playersMatr.png</file>
+        <file>images/harta3playersBunaMatr.png</file>
+        <file>images/Harta2playersMatr.png</file>
+        <file>images/harta4players.png</file>
+        <file>images/Harta2players.png</file>
+        <file>images/hartaStrategica3.jpg</file>
+        <file>images/hartaStrategica2.jpg</file>
+        <file>images/hartaStrategica.jpg</file>
+        <file>images/white image.png</file>
+        <file>images/harta3playersBuna.png</file>
+        <file>images/harta3players.png</file>
+        <file>images/harta3players.png</file>
+        <file>images/threePlayersMap4.3.png</file>
+        <file>images/Imagine_mare_buna_3.png</file>
+        <file>images/button.png</file>
+    </qresource>
+</RCC>

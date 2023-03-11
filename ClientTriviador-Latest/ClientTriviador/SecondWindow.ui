@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SecondWindowClass</class>
+ <widget class="QMainWindow" name="SecondWindowClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1014</width>
+    <height>679</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>SecondWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image:url(:/newPrefix/images/hartaStrategica3.jpg)</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QPushButton" name="Profil_Button">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>200</y>
+      <width>261</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-image:url(:/newPrefix/images/white image.png)</string>
+    </property>
+    <property name="text">
+     <string>Profile details</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="two_players">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>430</y>
+      <width>181</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-image:url(:/newPrefix/images/white image.png)</string>
+    </property>
+    <property name="text">
+     <string>2 Players</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="three_players">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>430</y>
+      <width>181</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-image:url(:/newPrefix/images/white image.png)</string>
+    </property>
+    <property name="text">
+     <string>3 Players</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="four_players">
+    <property name="geometry">
+     <rect>
+      <x>560</x>
+      <y>430</y>
+      <width>181</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-image: url(:/newPrefix/images/white image.png);</string>
+    </property>
+    <property name="text">
+     <string>4 Players</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1014</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="LoginInterface.qrc"/>
+ </resources>
+ <connections/>
+</ui>
